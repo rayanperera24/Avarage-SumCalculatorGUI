@@ -1,0 +1,16 @@
+C:\Users\Rayan\Desktop\practice systems\first gui\bin\Debug\net6.0-windows\first gui.exe
+C:\Users\Rayan\Desktop\practice systems\first gui\bin\Debug\net6.0-windows\first gui.deps.json
+C:\Users\Rayan\Desktop\practice systems\first gui\bin\Debug\net6.0-windows\first gui.runtimeconfig.json
+C:\Users\Rayan\Desktop\practice systems\first gui\bin\Debug\net6.0-windows\first gui.dll
+C:\Users\Rayan\Desktop\practice systems\first gui\bin\Debug\net6.0-windows\first gui.pdb
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first_gui.Form1.resources
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.csproj.GenerateResource.cache
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.AssemblyInfoInputs.cache
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.AssemblyInfo.cs
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.dll
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\refint\first gui.dll
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.pdb
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\first gui.genruntimeconfig.cache
+C:\Users\Rayan\Desktop\practice systems\first gui\obj\Debug\net6.0-windows\ref\first gui.dll
